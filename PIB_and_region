@@ -1,0 +1,5 @@
+Countries<-c('Brazil','China','Russia','India','South Africa')
+Continent<-c('America', 'Asia','Asia','Asia','Africa')
+PIB<-c('2.842,920', '16.434,400','1.704,060','3.050,300', '283,510')
+Países_BRICS<-data.frame(Countries, Continent, PIB)
+View(Países_BRICS)
